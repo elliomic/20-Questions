@@ -1,0 +1,3 @@
+alive | 1
+tangible | 1
+fictional | 1
